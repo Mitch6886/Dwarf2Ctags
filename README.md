@@ -1,4 +1,4 @@
-# Elf2Ctags
+# Dwarf2Ctags
 Extract the function locations from an elf file to ctags, 
 
 this is useful when you have an existing project that you want to quickly navigate but setting up better code navigation will take to long.
